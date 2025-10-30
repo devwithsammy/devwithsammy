@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;AI+%26+Automation+Enthusiast;Open+Source+Advocate;Problem+Solver+with+Code" alt="Typing SVG" />
 </p>
 
+> 🔥 Code. Learn. Build. Repeat.
+
 ---
 
 ### 👨🏽‍💻 About Me
@@ -56,5 +58,3 @@
 - 📧 Email: [dewwithsammy@gmail.com](mailto:dewwithsammy@gmail.com)
 
 ---
-
-> 🚀 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
