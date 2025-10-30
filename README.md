@@ -53,7 +53,7 @@
 
 ### 🌐 Let's Connect
 
-- 🐦 Twitter: [@devwithsammy](https://twitter.com/chief_cipher)
+- 🐦 Twitter: [@devwithsammy](https://x.com/devwithsammy)
 - 🌐 Website: [devwithsammy](https://devwithsammy.netlify.app)
 - 📧 Email: [dewwithsammy@gmail.com](mailto:dewwithsammy@gmail.com)
 
