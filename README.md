@@ -32,27 +32,27 @@
 
 ### 📌 Pinned Projects
 
-- 🔹 [**Certiva Backend**](https://github.com/chiefcipher/certiva_backend) – Smart certificate issuing and verification system (NestJS + TypeScript)
-- 🔹 [**CraftNexus**](https://github.com/chiefcipher/CraftNexus) – StarkNet NFT marketplace connecting artisans to global collectors
-- 🔹 [**CrowdChain**](https://github.com/chiefcipher/crowdchain) – Decentralized crowdfunding using blockchain
+- 🔹 [**Certiva Backend**](https://github.com/devwithsammy/certiva_backend) – Smart certificate issuing and verification system (NestJS + TypeScript)
+- 🔹 [**CraftNexus**](https://github.com/devwithsammy/CraftNexus) – StarkNet NFT marketplace connecting artisans to global collectors
+- 🔹 [**CrowdChain**](https://github.com/devwithsammy/crowdchain) – Decentralized crowdfunding using blockchain
 - 🔹 [**AbidoShaker.xyz**](https://abidoshaker.xyz/) – An annonymous web messaging platform
-- 🔹 [**URL Redirector**](https://github.com/chiefcipher/url-redirector-extension) – A URL Redirector extension for chrome
+- 🔹 [**URL Redirector**](https://github.com/devwithsammy/url-redirector-extension) – A URL Redirector extension for chrome
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiefcipher&show_icons=true&theme=github_dark" alt="chiefcipher's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chiefcipher&theme=github-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devwithsammy&show_icons=true&theme=github_dark" alt="devwithsammy's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devwithsammy&theme=github-dark&hide_border=true" height="165" />
 </p>
 
 ---
 
 ### 🌐 Let's Connect
 
-- 🐦 Twitter: [@chief_cipher](https://twitter.com/chief_cipher)
-- 🌐 Website: [chiefcipher.codes](https://chiefcipher.codes)
+- 🐦 Twitter: [@devwithsammy](https://twitter.com/chief_cipher)
+- 🌐 Website: [devwithsammy](https://devwithsammy.netlify.app)
 - 📧 Email: [dewwithsammy@gmail.com](mailto:dewwithsammy@gmail.com)
 
 ---
