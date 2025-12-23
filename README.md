@@ -34,9 +34,10 @@
 
 ### 📌 Pinned Projects
 
-- 🔹 [**Certiva Backend**](https://github.com/devwithsammy/certiva_backend) – Smart certificate issuing and verification system (NestJS + TypeScript)
-- 🔹 [**CraftNexus**](https://github.com/devwithsammy/CraftNexus) – StarkNet NFT marketplace connecting artisans to global collectors
-- 🔹 [**CrowdChain**](https://github.com/devwithsammy/crowdchain) – Decentralized crowdfunding using blockchain
+- 🔹 [**RebelAI**](https://rebel-chat-bot.vercel.app/) – RebelAI Chatbot
+- 🔹 [**Certiva Backend**](https://github.com/JayWebtech/certiva_backend) – Open source contribution to Certiva - Smart certificate issuing and verification system (NestJS + TypeScript)
+- 🔹 [**CraftNexus**](https://github.com/EvolutionalHub/CraftNexus) - Open source contribution to CraftNexus – StarkNet NFT marketplace connecting artisans to global collectors
+- 🔹 [**CrowdChain**](https://github.com/alexohre/crowdchain) - Open source contribution to CrowdChain – Decentralized crowdfunding using blockchain
 - 🔹 [**AbidoShaker.xyz**](https://abidoshaker.xyz/) – An annonymous web messaging platform
 - 🔹 [**URL Redirector**](https://github.com/devwithsammy/url-redirector-extension) – A URL Redirector extension for chrome
 
